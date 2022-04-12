@@ -1,6 +1,6 @@
 # Portfolio
 
-Crossword: Automatically generates crosswords by enforcing arc consistency, node consistency, backtrack, and optimizing heuritics like the least value constraining heuristic.
+Crossword: Automatically generates crosswords by enforcing arc consistency, node consistency, backtrack, and optimizing heuritics like the least values constraining heuristic.
 
 Minesweeper: AI that automatically plays the game Minesweeper using inference. Demonstrates knowledge of object oriented programming, propositional logic and game design.
 
