@@ -4,6 +4,6 @@ Crossword: Automatically generates crosswords by enforcing arc consistency, node
 
 Minesweeper: AI that automatically plays the game Minesweeper using inference. Demonstrates knowledge of object oriented programming, propositional logic and game design.
 
-Tictactoe: AI that automatically plays the game Tictactoe using recursion and the minimax algorithm from game theory. Demonstrates knowledge of game design and artificial intelligence.
+Tictactoe: AI that automatically plays the game Tictactoe using recursion and the minimax algorithm from game theory. Demonstrates knowledge of game theory and its implementation in artificial intelligence.
 
 Further additions incoming, keep watching this space!
