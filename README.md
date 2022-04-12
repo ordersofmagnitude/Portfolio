@@ -6,6 +6,4 @@ Minesweeper: AI that automatically plays the game Minesweeper using inference. D
 
 Tictactoe: AI that automatically plays the game Tictactoe using recursion and the minimax algorithm from game theory. Demonstrates knowledge of game design and artificial intelligence.
 
-#todo:
-Add alpha-beta pruning for tictactoe
-Add GA portfolio
+Further additions incoming, keep watching this space!
