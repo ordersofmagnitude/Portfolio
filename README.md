@@ -17,3 +17,5 @@ Other AI gaming agents:
 Misc:
 - Segmentation of the Luxury Car Market using NLP
 - Google's PageRank algorithm
+
+Projects inspired by Harvard University and General Assembly.
