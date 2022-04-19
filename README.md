@@ -2,9 +2,9 @@
 
 This portfolio features the following projects:
 
-Price Predictions:
-- Quantitative Modelling of Real Estate firms
-- Quantitative Modelling of the Rare Whiskey market
+Price Predictions & Quantitative Models:
+- Real Estate
+- Luxury Whiskeys
 
 Unbeatable AI gaming agents [fully uploaded]:
 - Tictactoe (Minimax)
