@@ -12,7 +12,7 @@ Unbeatable AI gaming agents:
 
 Other AI gaming agents:
 - Crossword Generator
-- - AI that plays Minesweeper
+- AI that plays Minesweeper
 
 Misc:
 - Segmentation of the Luxury Car Market using NLP
