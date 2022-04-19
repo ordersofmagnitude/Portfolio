@@ -3,17 +3,17 @@
 This portfolio features the following projects:
 
 Price Predictions:
-- Real estate
-- Rare whiskeys
+- Quantitative Modelling of Real Estate firms
+- Quantitative Modelling of the Rare Whiskey market
 
-Unbeatable games:
+Unbeatable AI gaming agents:
 - Tictactoe (Minimax)
 - Nim (Reinforcement Learning)
 
-Game generators:
+Other AI gaming agents:
 - Crossword Generator
+- - AI that plays Minesweeper
 
 Misc:
-- Minesweeper AI (not unbeatable)
-- Market Segmentation of the Luxury Car Market using NLP
+- Segmentation of the Luxury Car Market using NLP
 - Google's PageRank algorithm
