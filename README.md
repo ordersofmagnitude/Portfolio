@@ -6,7 +6,7 @@ Price Predictions:
 - Quantitative Modelling of Real Estate firms
 - Quantitative Modelling of the Rare Whiskey market
 
-Unbeatable AI gaming agents:
+Unbeatable AI gaming agents [fully uploaded]:
 - Tictactoe (Minimax)
 - Nim (Reinforcement Learning)
 
