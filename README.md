@@ -12,10 +12,10 @@ Unbeatable AI gaming agents [fully uploaded]:
 
 Other AI gaming agents:
 - Crossword Generator
-- AI that plays Minesweeper
+- Minesweeper AI
 
 Misc:
-- Segmentation of the Luxury Car Market using NLP
+- Luxury Car Market Segmentation with NLP
 - Google's PageRank algorithm
 
 Projects inspired by Harvard University and General Assembly.
