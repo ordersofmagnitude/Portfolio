@@ -2,11 +2,13 @@
 
 This portfolio features the following projects:
 
-Price Predictions & Quantitative Models:
+Price Predictions & Quantitative Models (not yet uploaded):
 - Real Estate
 - Luxury Whiskeys, courtesy of Property Quants
 
-Unbeatable AI gaming agents [fully uploaded]:
+Fully uploaded projects:
+
+Unbeatable AI gaming agents:
 - Tictactoe (Minimax)
 - Nim (Reinforcement Learning)
 
