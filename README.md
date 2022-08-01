@@ -2,9 +2,9 @@
 
 This portfolio features the following projects:
 
-Price Predictions & Quantitative Models (not yet uploaded):
+Price Predictions & Quantitative Models:
 - Real Estate
-- Luxury Whiskeys, courtesy of Property Quants
+- Luxury Whiskeys, courtesy of Property Quants (not yet uploaded)
 
 Fully uploaded projects:
 
